@@ -7,9 +7,12 @@
 -	![BeautifulSoup](https://pypi.org/project/BeautifulSoup/)
 -	![Openpyxl](https://pypi.org/project/openpyxl/)
 
+-------
+
 ### IMDB Top Rataing Movies Website link - 
 https://www.imdb.com/chart/top
 
+-------
 
 ### What data is being extracted from the website??
 The scraped data contains the following information about the movies having the highest IMDB rating – 
@@ -18,6 +21,7 @@ The scraped data contains the following information about the movies having the 
 -	Year on which the movie was released
 -	IMDB rating of the movie
 
+-------
 
 ### Here is the preview of the output excel file - 
 ![](https://github.com/Abhijeet-Prasad/Web-Scrapers/blob/main/IMDB%20Top%20Movie%20Rating/excel_ouput.gif) 

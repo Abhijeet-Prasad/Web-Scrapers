@@ -8,7 +8,7 @@
 
 -------
 
-I love watching anime. I am currently watching One Piece so to make this project more interesting I tried to extract One Piece episodes lists from Wikipedia page linked below.
+I love watching anime. I am currently watching One Piece so to make this project more interesting I tried to extract related to One Piece episodes lists from Wikipedia page linked below.
 
 https://en.wikipedia.org/wiki/Lists_of_One_Piece_episodes
 
